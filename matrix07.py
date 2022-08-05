@@ -1,7 +1,5 @@
-#matriz bidimensional vertical
 from operator import le
 from this import s
-
 
 len = 6
 suma = 0

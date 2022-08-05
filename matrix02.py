@@ -1,4 +1,3 @@
-#matriz bidimensional vertical
 contadorPar = 0
 contadorImpar = 7
 for i in range(1, 7):
